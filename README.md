@@ -1,4 +1,4 @@
-# infracost
+# Infracost
 
 Get cost hourly and monthly estimates for a Terraform project. Helps you quickly see the cost breakdown and compare different deployment options upfront.
 
